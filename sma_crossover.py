@@ -28,7 +28,7 @@ class BotF(Candlesticks):
         self.mt5.initialize()
 
     def __str__():
-        return "BotF Maintained and Managed By Fortune Codebox"
+        return "BotF"
     # function to send a market order
 
     def set_bull_engulfing_prices(self, prices):
